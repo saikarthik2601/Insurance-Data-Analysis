@@ -48,7 +48,7 @@ Claim Status (Settled, Pending, Rejected)
 
 Policy Status (Active/Inactive)
 
-## Questions (KPIs)
+## 📌 Questions(KPIs)
 
 1. How many policies are currently active vs. inactive?
 2. What is the total premium collected across all policy types?
