@@ -78,6 +78,9 @@ The Power BI Dashboard includes:
 
 📌 Policy Type Claim Summary – Table showing pending & rejected claim amounts
 
+<img width="1920" height="906" alt="Project Dashboard Screenshot" src="https://github.com/user-attachments/assets/ffa186cf-29f0-4f20-ab33-9ed5af45c9db" />
+
+
 ## 🚀 Key Insights
 
 The majority of policies are active (92%+), while only a small portion are inactive.
