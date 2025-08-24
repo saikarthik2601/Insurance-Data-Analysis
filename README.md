@@ -62,6 +62,7 @@ Policy Status (Active/Inactive)
 10. What percentage of total policies belong to Travel, Health, Auto, Life, and Home categories?
 
 ## 📊 Dashboard Features
+<a href="https://github.com/saikarthik2601/Insurance-Data-Analysis/blob/main/Project%20Dashboard%20Screenshot.png">View Dashboard</a>
 
 The Power BI Dashboard includes:
 
