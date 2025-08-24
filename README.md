@@ -48,6 +48,19 @@ Claim Status (Settled, Pending, Rejected)
 
 Policy Status (Active/Inactive)
 
+## Questions (KPIs)
+
+1. How many policies are currently active vs. inactive?
+2. What is the total premium collected across all policy types?
+3. What is the total coverage amount provided by the company?
+4. What is the total claim amount processed?
+5. Which policy type generates the highest premium revenue?
+6. Which policy type has the highest rejected or pending claims?
+7. What is the claim settlement ratio (Settled vs. Rejected)?
+8. What is the distribution of policyholders by gender?
+9. Which age group files the highest claim amounts?
+10. What percentage of total policies belong to Travel, Health, Auto, Life, and Home categories?
+
 ## 📊 Dashboard Features
 
 The Power BI Dashboard includes:
