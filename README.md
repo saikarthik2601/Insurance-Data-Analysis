@@ -92,6 +92,3 @@ Gender distribution is balanced, with nearly equal male and female policyholders
 ## ✅ Conclusion
 
 This Insurance Data Analysis project demonstrates how Power BI can transform raw insurance data into meaningful insights. The dashboard helps stakeholders monitor policy growth, claim trends, customer demographics, and financial performance, enabling better decision-making and strategy planning.
-
-
-This Insurance Data Analydemographics, and financiaenabling better decision-making an
