@@ -24,8 +24,7 @@ Power Query – Data cleaning and preparation
 DAX (Data Analysis Expressions) – Calculated fields and KPIs
 
 ## 📂 Dataset
-<a href="https://docs.google.com/spreadsheets/d/1iCHFoldtOUbfQngT1J9HFSDpCoIpNUxUrps07-05HKk/edit?usp=sharing"></a>
-
+<a href="https://github.com/saikarthik2601/Insurance-Data-Analysis/blob/main/InsuranceData.xlsx"></a>
 The dataset (InsuranceData.csv) contains fields such as:
 
 Policy Number, Claim Number, Customer ID
