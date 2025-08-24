@@ -10,21 +10,29 @@ The analysis turns raw insurance data into an interactive dashboard that support
 This project aims to answer key business questions, including:
 
 Policy Analysis – Total number of active vs. inactive policies.
+
 Premium & Coverage Overview – Total premium amount collected, coverage provided, and claims raised.
+
 Policy Type Performance – Premium distribution across different policy types (Travel, Health, Auto, Life, Home).
+
 Claims Analysis – Number of claims by status (Settled, Rejected, Pending).
+
 Demographic Insights – Gender-wise policyholders and claim amounts by age group.
+
 Policy Type Claim Breakdown – Pending and rejected claim amounts per policy type.
 
 ## 🛠️ Tools & Technologies
 
 Microsoft Power BI – Dashboard creation and data visualization
+
 Excel/CSV (InsuranceData.csv) – Source dataset containing policyholder and claim details
+
 Power Query – Data cleaning and preparation
+
 DAX (Data Analysis Expressions) – Calculated fields and KPIs
 
 ## 📂 Dataset
-<a href="https://github.com/saikarthik2601/Insurance-Data-Analysis/blob/main/InsuranceData.xlsx">DataSet</a>
+<a href="https://github.com/saikarthik2601/Insurance-Data-Analysis/blob/main/InsuranceData.xlsx">Insurance DataSet</a>
 
 The dataset (InsuranceData.csv) contains fields such as:
 
